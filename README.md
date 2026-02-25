@@ -35,7 +35,6 @@ Verifies proper latching behavior and independence of the IR after loading.
 - `IR_Block.dig`
 - `SRAM_Block.dig`
 - `/screenshots` – Test results for each block and demonstration
-- Project report (PDF)
 
 ---
 
